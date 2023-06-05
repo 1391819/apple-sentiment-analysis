@@ -2,6 +2,8 @@
   <img src="imgs/logo-light-nobg.png" alt="logo" width="128"/>
   <h1>Sentimental Analysis - Apple's reviews</h1>
 
+  [Kaggle Notebook](https://www.kaggle.com/code/robertonacu/apple-sentiment-analysis)
+
 </div>
 
 <div align="justify">
