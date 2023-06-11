@@ -33,7 +33,7 @@ The methodology consists of several key steps, including web scraping, data clea
 
 ### Web Scraping
 
-The first step involved web scraping the reviews from Apple's TrustPilot page. The BeautifulSoup library was used to extract the review content, ratings, and other relevant information from the HTML structure of the webpage. The Requests library facilitated the retrieval of the webpage's HTML content for further processing.
+The first step involved web scraping the reviews from Apple's Trustpilot page. The BeautifulSoup library was used to extract the review content, ratings, and other relevant information from the HTML structure of the webpage. The Requests library facilitated the retrieval of the web page's HTML content for further processing.
 
 ### Data Cleaning and Feature Creation
 Once the reviews were collected, a comprehensive data cleaning process was applied to ensure the quality and reliability of the dataset. This involved tasks such as handling missing values, removing duplicates, and standardizing the text format. Additional features were created from the reviews to provide more context and enable a more in-depth data analysis (i.e., length of the reviews, presence of specific keywords, sentiment scores obtained from TextBlob).
