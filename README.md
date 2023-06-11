@@ -6,6 +6,14 @@
 
 <div align="justify">
 
+This project aims to perform sentiment analysis on Apple's reviews gathered from Trustpilot using various Python libraries such as Requests, BeautifulSoup, NLTK, and TextBlob. By extracting review content, ratings, and other relevant information from the web page, this analysis provides insights into the sentiment expressed by customers towards Apple's products and services.
+
+## Features
+- Web scraping of business reviews from Apple's TrustPilot page
+- Data cleaning and preprocessing for quality and reliability
+- Creation of additional features for a more comprehensive analysis
+- Sentiment analysis using NLTK and TextBlob to determine positive, negative, or neutral sentiment
+
 ## Stack
 
 - Requests
@@ -17,7 +25,7 @@
 ## Data Overview
 
 - Web scraped business reviews from Apple's TrustPilot page
-- Created additional features from reviews for a more in-depth data analysis
+- Additional - manually created - features from reviews for a more in-depth data analysis
 
 ## Methodology
 
