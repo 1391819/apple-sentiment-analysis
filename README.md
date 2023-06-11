@@ -10,10 +10,16 @@ This project aims to perform sentiment analysis on Apple's reviews gathered from
 
 ## Roadmap
 
-- [x] Web scraping of business reviews from Apple's TrustPilot page
-- [x] Data cleaning and preprocessing for quality and reliability
-- [x] Creation of additional features for a more comprehensive analysis
-- [x] Sentiment analysis using NLTK and TextBlob to determine positive, negative, or neutral sentiment
+- [x]  Perform web scraping of Apple's reviews from Trustpilot using Requests and BeautifulSoup
+- [x]  Extract review content, ratings, and relevant information from the web page's HTML structure
+- [x]  Apply data-cleaning techniques to ensure the quality and reliability of the dataset
+- [x]  Handle missing values, remove duplicates, and standardize the text format
+- [x]  Create additional features from the reviews, such as review length and presence of specific keywords
+- [x]  Utilize NLTK for text pre-processing tasks, including tokenization, stop word removal, and stemming
+- [x]  Employ TextBlob for sentiment analysis of the reviews, assigning sentiment scores to each review
+- [x]  Evaluate the performance and accuracy of the sentiment analysis results
+- [x]  Analyse the sentiment scores to gain insights into the overall sentiment of the reviews
+- [ ]  Draw conclusions based on the insights obtained from the sentiment analysis
 
 ## Stack
 
