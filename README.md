@@ -10,14 +10,14 @@ This project aims to perform sentiment analysis on Apple's reviews gathered from
 
 ## Roadmap
 
-- [x]  Web scrape Apple's reviews from Trustpilot
-- [x]  Data cleaning
-- [x]  Create additional features (e.g., review length, keywords)
-- [x]  Pre-process text data (i.e., tokenization, stop word removal, and stemming)
-- [x]  Perform sentiment analysis
-- [x]  Evaluate performance and accuracy
-- [x]  Analyse sentiment scores (polarity)
-- [ ]  Draw conclusions
+- [x] Web scrape Apple's reviews from Trustpilot
+- [x] Perform data cleaning
+- [x] Create additional features (e.g., review length, keywords)
+- [x] Pre-process text data (tokenization, stop word removal, and stemming)
+- [x] Perform sentiment analysis
+- [x] Evaluate performance and accuracy
+- [x] Analyze sentiment scores (polarity)
+- [ ] Draw conclusions
 
 ## Stack
 
