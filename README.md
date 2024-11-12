@@ -1,6 +1,6 @@
 <div align="center">
   <img src="imgs/logo-light-nobg.png" alt="logo" width="128"/>
-  <h1>Sentimental Analysis - Apple's reviews</h1>
+  <h1>Sentiment Analysis - Apple's reviews</h1>
 
 </div>
 
